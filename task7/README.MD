@@ -8,7 +8,11 @@ https://github.com/sking789/godwoken_test_dapp
 
 txHash:
 ```
- 0xeee89a7eeae8973b3c69263edb24c98618be1bd62109f736e802178188e15cd8
+0x91112c2270bbd013a6110d088aa8b95f40fe48d1d910e1398b2487ec73ab4354
+```
+contract Address:
+```
+0x831DeA16e4CA510661d06b0f123e303c662ce2fc
 ```
 ABI:
 ```
